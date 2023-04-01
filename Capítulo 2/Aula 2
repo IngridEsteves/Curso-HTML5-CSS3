@@ -1,0 +1,38 @@
+** O que é domínio e hospedagem? **
+
+Como vão acessar meus sites?
+
+Situação 1: Guardado (arquivos HTML e CSS) no servidor - todos acessam
+
+Situação 2: Guardado (arquivos HTML e CSS) no seu PC - demais pessoas não conseguem acessar
+
+Situação 3: Guardado (arquivos HTML e CSS) em outro PC - somente o proprietário consegue acessar
+
+É necessário ter um *_domínio_* para que outras pessoas possam acessar
+É necessário um *_servidor_* para armazenamento dos arquivos desenvolvidos (para hospedar)
+
+DOMÍNIO:
+1. Nome único
+2. Pago anualmente (30 a 50 reais por ano)
+3. Vários TLDs
+
+SERVIDOR:
+1. Espaço para armazenar arquivos
+2. Pago mensalmente (bem mais caro que o domínio)
+3. Espaço, memória, recursos
+
+** Uma URL (Localizador de Recurso Único) **
+
+*www.github.com/gustavoguanabara*
+github.com: domínio
+github: nome do domínio
+.com: TLD (TOP LEVEL DOMAIN)
+GTLD: domínios genéricos
+CCTL: country codes (.br | .us | .uk | .ar | .tv)
+www: sub-domínio
+/.: caminho (tudo após a '/')
+
+*gustavoguanabara.github.io*
+github.io: domínio
+.io: GTLD
+gustavoguanabara: sub-domínio

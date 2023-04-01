@@ -1,0 +1,42 @@
+** Como a Internet funciona? **
+
+Representação de dados
+
+Dígitos binários - Binary Digit - BIT - 0 e 1
+
+8 BITs = 1 BYTE = Porção mínima para que se represente um dado
+01000001 = A
+código multibyte UTF-8: para saber a tabela completa de de-para
+De 1 a 4 bytes para representações
+2 estados (0 e 1): Ondas quadradas
+
+Múltiplos
+8 bits = 1 byte
+2^10 = 1024 bytes = 1Kb (kilobyte)
+1024 KB = 1 MB
+1024 MB = 1 GB
+1024 GB = 1 TB
+1024 TB = 1 PT (petabute)
+1024 PT = 1 EB (exabyte)
+1024 EB = 1 ZB (zetabytes)
+1024 ZB = 1 YB (yotabyte)
+
+MB != Mb
+MB = MEGABYTES (armazenamento)
+Mb = MEGABITS (transmissão)
+
+** Como nos conectamos **
+
+Modulação
++
+DEModulação
+=
+MODEM
+
+Para identificar um IP: www.iplocation.net - é reiniciado sempre que o modem é reiniciado
+
+Servidor DNS (Domain Name System)
+"Agenda" de nomenclaturas de IPs
+
+
+

@@ -1,0 +1,31 @@
+** Como a Internet chega na minha casa? **
+
+Guerra Fria 1969
+Russia lançou o Sputnik, que só circulava e emitia bips e caía na água
+
+Internet surgiu durante a guerra para proteger centros militares
+ARPANET-1972
+Bob Kahn criou o TCP - não precisa mais parar a rede para fazer uma transmissão
+Vint Cerf criou o IP
+Juntando os dois temos o TCP/IP
+
+Interconnect Networking (Interntworking - Internet)
+A parte militar ficou com MILNET
+A parte científica ficou com NSFNET
+A parte comercial ficou com Comerciais
+
+A Intenet não tinha nada gráfico - tela preta e letras verdes e branncas
+
+Em 1993, Tim Berners-Lee criou o protocolo http (HyperText Transfer Protocol) e a linguagem HTML (HyperText Markup Language)
+Criou também a WWW (World Wide Web)
+
+Marc Andreessen criou o 1º navegador compativel com http
+
+Internet (a rede das redes)
+>
+Servidores (FTP | GOPHER | SMTP, POP3, IMAP | HTTP (WWW - um subrede da Internet))
+
+WWW é uma rede dentro da grande rede Internet - é uma subrede
+WWW é o conjunto de servidores especializado em HTTP
+
+
