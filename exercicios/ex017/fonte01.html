@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fontes em CSS</title>
+    <style>
+        
+        body {
+            font-family: 'Work Sans', Helvetica, sans-serif; /*CSS Web Safe Font Combinations*/
+            /*
+            Medidas Absolutas
+            cm: centímetro - complicado apresentação conforme a tela
+            mm: milímetro - complicado apresentação conforme a tela
+            in: polegada
+            px: pixel - complicado apresentação conforme a tela - É A RECOMENDADA PELA W3C
+            pt: ponto - medida da tipografia - não recomendado para telas
+            pc: paica - medida da tipografia - não recomendado para telas
+
+            Medidas Relativas
+            em: relativo ao tamanho atual da fonte - altura do M maísculo - É A RECOMENDADA PELA W3C
+            ex: relativo a altura x da fonte - altura do x minúscilo
+            rem: relativo ao root - fonte configurada no body
+            vw: largura da viewport (sua tela)
+            vh: altura da viewport
+            %            
+            */
+            /*font-size: 1em;*/
+            /*16px é o tamanho normal da fonte
+              1 em é o tamanho normal da fonte*/
+            /*16px = 1em (geralmente)*/
+            /*font-weight: normal; /*Peso da fonte*/ /*Negrito*/
+            /*Pesos literais: lighter, normal, bold, bolder*/
+            /*Pesos numéricos: de 100 a 900 - 100 é o lighter | 400 é o normal*/
+            /*font-style: italic; /*Itálico*/
+            /*text-decoration: underline; /*Sublinhado*/
+            /*Nem todas as fontes têm todas essas funcionalidades*/
+        }
+
+        h1 {
+            /*Shorthand font*/
+            /*font-style: ;
+            font-weight: ;
+            font-size: ;
+            font-family: ;*/
+            font: italic bolder 3em 'Work Sans', 'sans-serif';
+        }
+
+        h2 {
+            font: bold 2em 'Work Sans';
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <h1>Trabalhando com Fontes</h1>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas consequuntur officia atque cumque, distinctio omnis. Laborum, quas laudantium consequatur quo repellendus minus eligendi voluptatibus, ullam accusantium enim iste non nostrum. Lorem ipsum dolor sit, amet consectetur adipisicing elit. Beatae error eum incidunt mollitia possimus ipsam delectus nesciunt nostrum laborum quia nobis esse ipsum unde fugiat, voluptatem consequuntur. Dignissimos, voluptate tenetur!</p>
+    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dignissimos minima obcaecati nihil nam alias expedita, saepe omnis pariatur quisquam sequi, id molestiae. Magnam fuga officia quidem dolores dicta eveniet obcaecati.</p>
+    <h2>Subtítulo do exercício</h2>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat laboriosam officia temporibus labore, suscipit quia! Earum, expedita consectetur temporibus, saepe deleniti nisi facilis ipsa harum quas veritatis sed accusantium ullam.</p>
+</body>
+</html>
